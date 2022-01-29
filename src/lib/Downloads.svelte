@@ -15,7 +15,7 @@ import DownloadRow from "./components/DownloadRow.svelte";
         <li><DownloadRow link="#" status="prerelease">Abdomen (50% complete)</DownloadRow></li>
         <li><DownloadRow link="#" status="prerelease">Head, neck and spine (61% complete)</DownloadRow></li>
         <li><DownloadRow link="#" status="nonrelease">CNS (57% complete)</DownloadRow></li>
-        <li><DownloadRow link="#" status="prerelease">Skull osteology (100% complete)</DownloadRow></li>
+        <li><DownloadRow link="#" status="prerelease">Skull osteology</DownloadRow></li>
     </ol>
 </div>
 
