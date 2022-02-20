@@ -19,7 +19,7 @@
     </section>
     <section>
         <h2>Testers</h2>
-        <p>Vivian Lin, Ryan Ting, Nicholas Kesby</p>
+        <p>Vivian Lin, Ryan Ting, Bridget Hwang, Will Karantanis, Nicholas Kesby, Hayden Ly</p>
     </section>
 </div>
 
