@@ -4,6 +4,7 @@ import DownloadRow from "./components/DownloadRow.svelte";
 </script>
 <div id="downloads">
     <h1>Downloads</h1>
+    <p>Finalised versions of the deck are made available here.</p>
     <h2>Entire deck</h2>
     <p>Not yet available.</p>
     <h2>In parts</h2>
