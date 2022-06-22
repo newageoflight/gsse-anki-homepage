@@ -8,6 +8,9 @@
     <section>
         <div class="section-text">
             Founder/Project Manager/Content Auditor and Editor: Christopher Chen
+            <br/>
+            Note: I'm a bit busy with my current terms so if you're interested in helping out with the coordination/management of this project, 
+            please email me at <a href="mailto:camint3rnal@live.com">camint3rnal@live.com</a> or message me on Facebook.
         </div>
         <div class="section-image">
             <div class="avatar"></div>
