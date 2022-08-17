@@ -9,6 +9,7 @@ import LinkButton from "./components/LinkButton.svelte";
         <LinkButton href='https://forms.gle/hhZnRjAyV6Ei46LP9'>Contributors</LinkButton>
         <LinkButton href='https://forms.gle/jq2MYzsQ7VCpC6fo9'>Testers</LinkButton>
     </div>
+    <p>Please also consider contributing to the <a href="https://docs.google.com/document/d/1u0VH5QFWejQJ6JB6Fr3EUFNo6QLLc57ddutPTaIz_P8/edit?usp=sharing">list of highest-yield resources for the GSSE</a>.</p>
 </div>
 
 <style>
