@@ -7,9 +7,9 @@
     <h1>Credits</h1>
     <section>
         <div class="section-text">
-            Founder: Christopher Chen
+            Founder/Former Project Lead (2020-2022): Christopher Chen
             <br/>
-            Project Lead: Dineth Fonseka
+            Project Lead (2023-): Dineth Fonseka
         </div>
         <div class="section-image">
             <div class="avatar"></div>
