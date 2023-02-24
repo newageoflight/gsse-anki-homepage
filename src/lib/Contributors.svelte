@@ -7,11 +7,9 @@
     <h1>Credits</h1>
     <section>
         <div class="section-text">
-            Founder/Project Manager/Content Auditor and Editor: Christopher Chen
+            Founder: Christopher Chen
             <br/>
-            Note: I'm a bit busy with my current terms so I won't be able to actively contribute to this project. 
-            If you're interested in helping out with the coordination/management of this project, 
-            please email me at <a href="mailto:camint3rnal@live.com">camint3rnal@live.com</a> or message me on Facebook.
+            Project Lead: Dineth Fonseka
         </div>
         <div class="section-image">
             <div class="avatar"></div>
